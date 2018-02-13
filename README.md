@@ -1,4 +1,4 @@
-# [LIVE VERSION](https://bogusweb.github.io//angular-tesla-range-calculator)
+# [LIVE VERSION](https://bogusweb.github.io/angular-tesla-range-calculator)
 
 # AngularTeslaRangeCalculator
 
